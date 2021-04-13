@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-natice-challenge",
-    "slug": "react-natice-challenge",
+    "name": "react-native-challenge",
+    "slug": "react-native-challenge",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
